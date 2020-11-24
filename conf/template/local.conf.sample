@@ -10,7 +10,7 @@
 # The following machines are avilable in the meta-tegra layer:
 #
 #MACHINE ?= "jetson-nano-emmc"
-#MACHINE ?= "jetson-nano-qspi-sd"
+MACHINE ?= "jetson-nano-qspi-sd"
 #MACHINE ?= "jetson-nano-qspi-sd-sb"
 #MACHINE ?= "jetson-tx1"
 #MACHINE ?= "jetson-tx2-4gb"

@@ -7,6 +7,7 @@ BBLAYERS ?= " \
   ##OEROOT##/meta \
   ##OEROOT##/../meta-openembedded/meta-oe \
   ##OEROOT##/../meta-openembedded/meta-networking \
+  ##OEROOT##/../meta-openembedded/meta-filesystems \
   ##OEROOT##/../meta-openembedded/meta-python \
   ##OEROOT##/../meta-tegra \
   ##OEROOT##/../meta-tegra/contrib \
